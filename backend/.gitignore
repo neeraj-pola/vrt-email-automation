@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+credentials/
+sample_data/*.xlsx
+.pytest_cache/
